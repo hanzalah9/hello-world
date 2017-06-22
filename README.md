@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
-Hello, I'm Hanzalah- my friends call me Hanz. 
+Hello, I'm a just another huaman being. 
 I'm excited to be learning how to code.
